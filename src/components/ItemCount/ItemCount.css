@@ -1,0 +1,7 @@
+.count{
+    width: fit-content;
+    background-color: gray;
+    margin: auto;
+    padding: 1rem;
+    text-align: center;
+}
