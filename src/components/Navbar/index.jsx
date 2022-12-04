@@ -12,7 +12,7 @@ const Navbar=()=>{
         <div>
             <ul>
                 <li>
-                    <NavLink className="active" to='/'>Home</NavLink>
+                    <NavLink className="active"  to='/'>Home</NavLink>
                     </li>
                 <li>
                     <NavLink to='/category/Guitarras'>Guitarra</NavLink>

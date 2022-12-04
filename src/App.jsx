@@ -12,6 +12,7 @@ export const CartContext=React.createContext([])
 function App() {
   return (
   <>
+  
     <BrowserRouter>
     <Navbar/>
     

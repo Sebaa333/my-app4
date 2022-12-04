@@ -1,6 +1,8 @@
 .container{
-    width: 50%;
-    margin: auto;
+    width: 40%;
+    margin: 3px;
+    
+    
 }
 @media screen and(min-width:768px) {
     .container{
@@ -14,10 +16,14 @@
     width: 100%;
     display: flex;
     flex-wrap: wrap;
+    
 }
 
 .detail_image{
-    width: 100%;
+    width: 50%;
+    height: 50%;
+    border-radius: 20px;
+    
 }
 
 .content{
